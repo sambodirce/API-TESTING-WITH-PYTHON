@@ -1,5 +1,10 @@
 name: Python Package
 
+on:
+  push:
+  pull_request:
+
+    
 jobs:
   build:
 
