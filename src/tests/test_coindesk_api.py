@@ -1,4 +1,3 @@
-import pytest
 import requests
 from src.config import URL_COINDESK
 from src.service.get_today_date import get_today_date
